@@ -14,9 +14,11 @@
 bash connpass_generate_list.sh ./event_xxxxxx_participants.csv
 ```
 
-+ コピーした[スプレッドシート](https://docs.google.com/spreadsheets/d/1H97mKk4GdKG1QfOXUmTIP38sGZ7rmC7n4twQ2T__OEM/edit#gid=267768504) の `参加者リスト` シートに貼り付ける
++ コピーした[スプレッドシート](https://docs.google.com/spreadsheets/d/1H97mKk4GdKG1QfOXUmTIP38sGZ7rmC7n4twQ2T__OEM/edit#gid=267768504) の `参加者リスト` シートに貼り付ける（CSVのインポートで`参加者リスト` シートにコピーする必要がある）
 + スプレッドシートの `全体設定` シートからイベントロゴなどを設定する
 + スプレッドシートの `印刷用シート` シートを A4 サイズで印刷する
+
+※ 参加者リストの中で、現地参加者とオンライン参加が区別されないので、スプレッドシートに持ってくる時点か、元の参加者リストのところで、現地参加者のみに絞る必要がある
 
 # 作成される名札のサイズ
 
